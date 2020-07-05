@@ -1,3 +1,5 @@
+    cc Program written by: Lindsay King
+      
       PROGRAM nfwsim
       implicit real*8(a-h,o-z)
       parameter (N=600, cv=3.d5, ho=70.d0,ngriddy=50)
