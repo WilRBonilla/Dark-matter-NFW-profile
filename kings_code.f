@@ -1,4 +1,4 @@
-    c Program written by: Lindsay King
+    cc Program written by: Lindsay King
       
       PROGRAM nfwsim
       implicit real*8(a-h,o-z)
